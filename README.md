@@ -14,9 +14,9 @@ It fills the image with 3 different colors depending on the points you have plac
 3. Run `main.pyw`
 ## Requirements
 - Python 3.7
-- Python tkinter library
-- Python PIL library
-- Python math library
+- Python `tkinter` library
+- Python `PIL` library
+- Python `math` library
 ## Usage
 You can set the number of nodes for each network layer using this section :
 
