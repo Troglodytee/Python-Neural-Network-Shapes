@@ -3,7 +3,7 @@
 
 This is a program that served as a test for a neural network module that I coded.
 
-It fills the image with 3 different colors depending on the points you have placed before
+It fills the image with 3 different colors depending on the points you have placed before.
 ## Features
 - Possibility to set the structure of the neural network
 - Possibility to set the number of trainings that the network will have
